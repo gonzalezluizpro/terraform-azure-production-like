@@ -86,11 +86,9 @@ terraform destroy
 
 ## Author
 
-**Luiz Assef** — Senior Cloud & IT Operations Engineer
-📍 Luxembourg
-🌐 [Portfolio](https://gonzalezluizpro.github.io/luiz-assef.github.io/)
-💼 [LinkedIn](https://linkedin.com/in/luizgonzalezpro)
-
-```
+**Luiz Assef** — Senior Cloud & IT Operations Engineer  
+📍 Luxembourg  
+🌐 [Portfolio](https://gonzalezluizpro.github.io/luiz-assef.github.io/)  
+💼 [LinkedIn](https://linkedin.com/in/luizgonzalezpro)  
 
 ---
