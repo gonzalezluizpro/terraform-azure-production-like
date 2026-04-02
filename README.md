@@ -11,6 +11,12 @@ It simulates a real enterprise environment with networking isolation, security r
 
 ---
 
+## Architecture Diagram
+
+![Azure Infrastructure Architecture](docs/terraform-azure-production-like.drawio.png)
+
+---
+
 ## Architecture
 
 ```text
