@@ -6,8 +6,8 @@
 
 ## Overview
 
-This project demonstrates how to deploy a **production-like infrastructure on Microsoft Azure** using Terraform.  
-It simulates a real enterprise environment with networking isolation, security rules, and a Linux virtual machine — the kind of setup used daily in financial services and regulated cloud environments.
+This project demonstrates how to deploy a **secure and production-like infrastructure on Microsoft Azure** using Terraform.
+It simulates a real enterprise setup commonly used in banking, financial services, and regulated environments, focusing on networking isolation, security best practices, and Infrastructure as Code (IaC).
 
 ---
 
@@ -92,9 +92,9 @@ terraform destroy
 
 ## Author
 
-**Luiz Assef** — Senior Cloud & IT Operations Engineer  
+**Luiz Assef**  
 📍 Luxembourg  
-🌐 [Portfolio](https://gonzalezluizpro.github.io/luiz-assef.github.io/)  
+🌐 [Portfolio](https://github.com/gonzalezluizpro/Cloud-Portfolio)  
 💼 [LinkedIn](https://linkedin.com/in/luizgonzalezpro)  
 
 ---
